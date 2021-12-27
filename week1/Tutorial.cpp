@@ -9,15 +9,15 @@ int main(){
     switch(value){
 
         case 1:
-            cout << "fuck";
+            cout << "hi";
             break;
         
         case 2:
-            cout << "yea";
+            cout << "how";
             break;
 
         default:
-            cout << "shit";
+            cout << "hello";
             break;
     }
 }
